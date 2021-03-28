@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">compatible_copy_list</string>
+    <string name="label_how_to">使い方</string>
+    <string name="label_copy_list">コピペ一覧</string>
+    <string name="label_to_copy_text">テキスト</string>
+    <string name="label_to_copy_list">一覧</string>
+    <string name="label_copy_text">コピペ文字</string>
+    <string name="label_apply">適用</string>
+    <string name="text_copied">クリップボードにコピーしました</string>
+</resources>
